@@ -3,73 +3,20 @@ layout: home
 ---
 
 
-{% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-    <div class="post-stub">
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-              <span class="date hidden-xs">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-
-  {%- endif -%}
-  
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS </a></p>
-
-<div class="post-stub">
-    <h2>
-      <span class="date hidden-xs">
-        2020-05-15
-      </span>
-      <span class="title">
-        
-<a href="/2020/05/15/Status-update.html">Status update, May 2020</a>
-        
-   </span>
-  </h2>
-    
-<p>Hello, future readers! I am writing to you from one day in the past. I finished
-my plans for today early and thought I’d get a head start on writing the status
-updates for tomorrow, or rather, for today. From your reference frame, that is.</p>
-
-
-    
+<div class="media">
+{% for post in site.posts limit:10 %}
+{% include post-stub.html post=post %}
+{% endfor %}
 </div>
+
+{% if site.posts.size > 10 %}
+<div class="pull-right">
+    <a href="/archive/page2/" class="btn btn-primary">
+        Page 2
+        <span class="icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"/></svg>
+        </span>
+    </a>
+</div>
+<div class="clearfix"></div>
+{% endif %}
