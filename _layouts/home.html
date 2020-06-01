@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+   <div class="container">
+   
+    <h1 class="page-title">
+    <a class="rss pull-right" href="/feed.xml"><i class="fa fa-rss"></i></a>
+   Deryk Makgill's Website
+</h1>
+
+<div class="content">
+
+{{ content }}
+
+</div>
+  {%- include sidebar.html -%}
+  
+  </div>
+  
+</body>
+</html>
