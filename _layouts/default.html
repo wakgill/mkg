@@ -5,6 +5,12 @@
 
   <body>
    <div class="container">
+   
+      {%- if page.title -%}
+    <h1 class="page-title"> <a class="rss pull-right" href="/feed.xml"><i class="fa fa-rss"></i></a>
+      
+      {{ page.title }}</h1>
+  {%- endif -%}
 
 <div class="content">
 
@@ -17,3 +23,4 @@
   
 </body>
 </html>
+
