@@ -21,6 +21,16 @@
       </p>
     </div>
     
+     {% if page.url != '/' %}
+    <h3>Recent Posts</h3>
+    {% for post in site.posts limit: 3 %}
+    <div class="post-stub">
+      {{ post.date | date: "%Y-%m-%d" }}<br />
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+    {% endfor %}
+    {% endif %}
+    
     <h3>Consulting</h3>
     <p>
       <a href="https://sourcehut.org/consultancy/">Click here</a> to learn
