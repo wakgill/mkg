@@ -5,7 +5,7 @@
       </span>
       <span class="title">
         {% if include.post._url %}
-        <a href="{{ include.post._url }}" target="_blank">
+        <a href="{{ include.post._url | relative_url }}" target="_blank">
           {{ include.post.title }}
           <i class="fa fa-external-link"></i>
         </a>
