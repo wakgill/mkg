@@ -10,7 +10,7 @@
           <i class="fa fa-external-link"></i>
         </a>
         {% else %}
-        <a href="{{ include.post.url }}">{{ include.post.title }}</a>
+        <a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a>
         {% endif %}
       </span>
     </h2>
