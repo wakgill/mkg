@@ -4,31 +4,19 @@ layout: home
 
 
 <div class="media">
-{% for post in site.posts %}
-<div class="post-stub">
-    <h2>
-      <span class="date hidden-xs">
-        {{ include.post.date | date: "%Y-%m-%d" }}
-      </span>
-      <span class="title">
-        {% if include.post._url %}
-        <a href="{{ include.post._url }}" target="_blank">
-          {{ include.post.title }}
-          <i class="fa fa-external-link"></i>
-        </a>
-        {% else %}
-        <a href="{{ include.post.url }}">{{ include.post.title }}</a>
-        {% endif %}
-      </span>
-    </h2>
-    {% if include.post._url or include.no_excerpt %}
-    {% else %}
-    {{ include.post.excerpt }}
-    {% endif %}
-</div>
-{% endif %}
+{% for post in site.posts limit:10 %}
+{% include post-stub.html post=post %}
+{% endfor %}
 </div>
 
-
+{% if site.posts.size > 10 %}
+<div class="pull-right">
+    <a href="/archive/page2/" class="btn btn-primary">
+        Page 2
+        <span class="icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"/></svg>
+        </span>
+    </a>
+</div>
 <div class="clearfix"></div>
 {% endif %}
