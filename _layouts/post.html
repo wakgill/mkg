@@ -1,3 +1,17 @@
+
+ {% if page.url != '/' %}
+    <p class="date">
+        {% if page.date %}Published {{ page.date | date: "%Y-%m-%d" }}{% endif %}
+        on <a href="/">Deryk Makgill's website</a>
+        <span class="hidden-xs">
+          &mdash;
+          <a href="{{ page.url }}">
+            Permalink
+          </a>
+        </span>
+    </p>
+    {% endif %}
+
 <article>
 
 
