@@ -17,3 +17,10 @@ And so, starting with the SR1 forums, which had not been taken down by the raid 
 ["Atlantis I Is Launched." "Population Explotion Reaches Atlantis." "Publishing Company is Formed,"](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Keating & Stanley 1972:
 
 >"Stage One of Operation Atlantis has been initiated," said the smiling Mr. Stiefel, "and now there exists a small spot on the surface of the globe where anyone who believes in individual liberty can find others who sharer his feelings and who are actively working to bring about a new, free society."
+
+
+## Citing this work
+
+In academic work, please cite this as:
+
+>Deryk Makgill, "Atlantis News Archives", https://mkgll.com/atlantis, Tokyo (2020).
