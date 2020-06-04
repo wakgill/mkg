@@ -24,7 +24,7 @@ I discovered during the research that I'm likely missing several later newslette
 
 ## Appendix
 
-["Your Global Alternative: Communes, Experiments, Jails and HideyHoles,"(https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Esquire Magazine, September 1970:
+["Your Global Alternative: Communes, Experiments, Jails and HideyHoles,"](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Esquire Magazine, September 1970:
 
 >They’re not just interested in a floating community, but an honest-to-God independent country… How are they doing to do it?
 They’re going to build an island, baby, in the middle of the ocean
