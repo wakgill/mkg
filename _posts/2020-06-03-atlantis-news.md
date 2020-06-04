@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Atlantis News Archives (1968-1971)
+image: https://www.cointalk.com/proxy.php?image=http%3A%2F%2Fderykmakgill.github.io%2Fderykmakgill1%2Fassets%2Fimages%2FMinting-Atlantis-Deca.png&hash=55bda70d164ea0460877dc158f5a2985
 ---
 
 Dark net markets have thrived since June 2011 when Adrian Chen published his famous Gawker article proving that Silk Road 1 was, contrary to my assumption when it was announced in January/February 2011, not a scam and was a fully-functional drug market, a new kind dubbed “dark net markets” (DNM). Fascinated, I soon signed up, made my first order, and began documenting how to use SR1 and then a few months later, began documenting the first known SR1-linked arrests. Monitoring DNMs was easy because SR1 was overwhelmingly dominant and BlackMarket Reloaded was a distant second-place market, with a few irrelevancies like Deepbay or Sheep and then the flashy Atlantis.
