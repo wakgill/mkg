@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+ {% if page.url != '/' %}
+    <p class="date">
+        {% if page.date %}Published {{ page.date | date: "%Y-%m-%d" }}{% endif %}
+        on <a href="/">Deryk Makgill's website</a>
+        <span class="hidden-xs">
+          &mdash;
+          <a href="{{ page.url }}">
+            Permalink
+          </a>
+        </span>
+    </p>
+    {% endif %}
+
+     {% if page.image %}
+      <div class="post-image">
+        <a href="{{ page.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.alt }}">
+          
+        </a>
+       </div>  
+      {% endif %}  
+
+<article>
+
+
+  {{ content }}
+  
+  </article>
