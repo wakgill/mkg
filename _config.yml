@@ -2,3 +2,6 @@ collections:
   notes:
     output: true
     permalink: /notes/:year/:month/:day/:path/
+  replies:
+    output: true
+    permalink: /replies/:year/:month/:day/:path/
