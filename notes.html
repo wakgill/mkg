@@ -9,6 +9,11 @@ title: Notes
 {% for notes in notes %}
 
 <div class="h-entry note post-stub">
+ 
+    {% if notes.reply %}
+ <span class="reply-context" style="display:block;background-color: #f5f5f5;text-indent: 1em;">↳ In reply to <a href="{{ notes.reply | relative_url }}" class="u-in-reply-to h-cite">{{ notes.reply }}</a></span>
+  {% endif %}
+ 
  <h2 class="post-stub"><a href="{{ notes.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ notes.date | date_to_xmlschema }}" itemprop="datePublished">
