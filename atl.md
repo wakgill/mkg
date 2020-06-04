@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: distraction
 title: Atlantis News Archive
 ---
 
