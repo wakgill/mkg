@@ -3,12 +3,6 @@ layout: page
 title: Atlantis News Archive
 ---
 
----
-layout: page
----
-
-# Atlantis News Archives
-
 - Volume I–September to December, 1968:
   - [Atlantis I Is Launched. Population Explotion Reaches Atlantis. Publishing Company is Formed.](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing)
   - [Freedom Forums Begin. Q & A Department.](https://drive.google.com/open?id=1WJ2PfMkA7EUBrdyrGeamDi2KCYISnCxi)
