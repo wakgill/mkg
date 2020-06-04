@@ -1,0 +1,31 @@
+---
+layout: page
+title: Notes
+---
+
+
+<div class="h-entry note">
+ <h5 class="post-meta"><a href="{{ notes.url | prepend: site.baseurl }}">
+   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ notes.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ notes.date | date: date_to_rfc822 }}
+      </time>
+   </a></h5>
+
+ <p class="p-content"> {{ notes.content }}
+ </p>
+ 
+   {% if notes.image %}
+      <div class="post-image">
+        <a href="{{ notes.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ notes.image | relative_url }}" alt="{{ notes.alt }}">
+          
+        </a>
+       </div>  
+      {% endif %}
+ 
+</div>
+
+{% endfor %}  
