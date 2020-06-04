@@ -32,7 +32,7 @@ I discovered during the research that I'm likely missing several later newslette
 They’re going to build an island, baby, in the middle of the ocean
 
 
-### Citing this work
+## Citing this work
 
 In academic work, please cite this as:
 
