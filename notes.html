@@ -4,6 +4,10 @@ title: Notes
 ---
 
 
+
+{% assign notes = site.notes | sort: 'date' | reverse %}
+{% for notes in notes %}
+
 <div class="h-entry note">
  <h5 class="post-meta"><a href="{{ notes.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -29,3 +33,4 @@ title: Notes
 </div>
 
 {% endfor %}  
+
