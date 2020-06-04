@@ -4,6 +4,10 @@ layout: default
 
 
 <article>
+    {% if notes.reply %}
+ <span class="reply-context" style="display:block;background-color: #f5f5f5;text-indent: 1em;">↳ In reply to <a href="{{ notes.reply | relative_url }}" class="u-in-reply-to h-cite">{{ notes.reply }}</a></span>
+  {% endif %}
+ 
 
 
   {{ content }}
