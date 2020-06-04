@@ -10,6 +10,10 @@ This idyllic period ended with the raid on SR1 in October 2013, which ushered in
 
 And so, starting with the SR1 forums, which had not been taken down by the raid (to help the mole? I wondered at the time), I began scraping all the new markets, doing so weekly and sometimes daily starting in December 2013. These are the results.
 
+## Missing
+
+I discovered during the research that I'm likely missing several later newsletter issues. Roy Halliday, the source, wrote that he stopped subscribing in 1971. Unfortunately I cannot know how many issues I'm missing or their importance. The newsletter ends sometime after 1971.
+
 [“Atlantis I Is Launched”,](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Keating & Stanley 1972:
 
 >"Stage One of Operation Atlantis has been initiated," said the smiling Mr. Stiefel, "and now there exists a small spot on the surface of the globe where anyone who believes in individual liberty can find others who sharer his feelings and who are actively working to bring about a new, free society."
@@ -17,6 +21,13 @@ And so, starting with the SR1 forums, which had not been taken down by the raid 
 ["Atlantis I Is Launched." "Population Explotion Reaches Atlantis." "Publishing Company is Formed,"](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Keating & Stanley 1972:
 
 >"Stage One of Operation Atlantis has been initiated," said the smiling Mr. Stiefel, "and now there exists a small spot on the surface of the globe where anyone who believes in individual liberty can find others who sharer his feelings and who are actively working to bring about a new, free society."
+
+## Appendix
+
+["Your Global Alternative: Communes, Experiments, Jails and HideyHoles,"(https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Esquire Magazine, September 1970:
+
+>They’re not just interested in a floating community, but an honest-to-God independent country… How are they doing to do it?
+They’re going to build an island, baby, in the middle of the ocean
 
 
 ### Citing this work
