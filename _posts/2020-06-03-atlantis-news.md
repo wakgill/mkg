@@ -16,17 +16,17 @@ I discovered during the research that I'm likely missing several later newslette
 
 ## Volume 1 (1968)
 
-[“Atlantis I Is Launched”,](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Keating & Stanley 1972:
+### [“Atlantis I Is Launched”,](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Keating & Stanley 1972:
 
 >"Stage One of Operation Atlantis has been initiated," said the smiling Mr. Stiefel, "and now there exists a small spot on the surface of the globe where anyone who believes in individual liberty can find others who sharer his feelings and who are actively working to bring about a new, free society."
 
-["Atlantis I Is Launched." "Population Explotion Reaches Atlantis." "Publishing Company is Formed,"](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Keating & Stanley 1972:
+### ["Atlantis I Is Launched." "Population Explotion Reaches Atlantis." "Publishing Company is Formed,"](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Keating & Stanley 1972:
 
 >"Stage One of Operation Atlantis has been initiated," said the smiling Mr. Stiefel, "and now there exists a small spot on the surface of the globe where anyone who believes in individual liberty can find others who sharer his feelings and who are actively working to bring about a new, free society."
 
 ## Appendix
 
-["Your Global Alternative: Communes, Experiments, Jails and HideyHoles,"](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Esquire Magazine, September 1970:
+### ["Your Global Alternative: Communes, Experiments, Jails and HideyHoles,"](https://drive.google.com/file/d/1U-vpUeVBde4BRH8JHaF4C3Bxu8owvQ1X/view?usp=sharing) Esquire Magazine, September 1970:
 
 >They’re not just interested in a floating community, but an honest-to-God independent country… How are they doing to do it?
 They’re going to build an island, baby, in the middle of the ocean
