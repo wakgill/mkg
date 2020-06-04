@@ -19,7 +19,7 @@ And so, starting with the SR1 forums, which had not been taken down by the raid 
 >"Stage One of Operation Atlantis has been initiated," said the smiling Mr. Stiefel, "and now there exists a small spot on the surface of the globe where anyone who believes in individual liberty can find others who sharer his feelings and who are actively working to bring about a new, free society."
 
 
-## Citing this work
+### Citing this work
 
 In academic work, please cite this as:
 
