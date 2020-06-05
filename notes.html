@@ -25,7 +25,7 @@ title: Notes
  <p class="p-content"> 
    {% if include.notes._url or include.no_excerpt %}
     {% else %}
-    {{ include.notes.excerpt }}
+    {{ include.notes.excerpt | truncate: 245 }}
     {% endif %}
  </p>
  
