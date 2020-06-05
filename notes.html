@@ -23,10 +23,7 @@ title: Notes
   {% endif %}
  
  <p class="p-content"> 
-   {% if include.notes._url or include.no_excerpt %}
-    {% else %}
-    {{ include.notes.excerpt | truncate: 245 }}
-    {% endif %}
+   {{ notes.content }}
  </p>
  
    {% if notes.image %}
