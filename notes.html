@@ -11,7 +11,7 @@ title: Notes
 <div class="h-entry note post-stub">
  
  
- <h2 class="post-stub"><a href="{{ notes.url | prepend: site.baseurl }}">
+ <h2><a href="{{ notes.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ notes.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ notes.date | date: date_to_rfc822 }}
