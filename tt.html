@@ -5,7 +5,7 @@ title: Test Notes
 
 
 
-{% assign notes = site.notes | where: "categories", "replies" | sort: 'date' | reverse %}
+{% assign notes = site.notes | where: "type", "quote" | sort: 'date' | reverse %}
 {% for notes in notes %}
 
 <div class="h-entry note post-stub">
