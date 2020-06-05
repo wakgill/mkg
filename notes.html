@@ -23,7 +23,7 @@ title: Notes
   {% endif %}
  
  <p class="p-content"> 
-   {{ notes.content }}
+   {{ notes.content | truncate: 245 }}
  </p>
  
    {% if notes.image %}
