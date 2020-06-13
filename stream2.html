@@ -11,7 +11,7 @@ title: Deryk Makgill's Website
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
              {% if document.layout != 'note' %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title}} </a>
-         </span>{% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "T%H:%M:%SZ" }}   </a>
+         </span>{% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
          </span>  {% endif %}
        
        
