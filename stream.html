@@ -3,12 +3,6 @@ layout: page
 title: Stream
 ---
 
-{% for item in site.collection limit:6 | sort: 'date' %}
-    <li>
-        <a href="{{ item.url }}">
-             <img src="{{ item.thumb }} " alt="">
-            </figure>
-            <p>{{ item.title }}</p>
-        </a>
-    </li>
-{% endfor %}
+      {% for collection in site.collections %}
+          {{ collection.label }}
+        {% endfor %}
