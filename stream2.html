@@ -9,7 +9,7 @@ title: Deryk Makgill's Website
 {% for document in documents limit:10 %}
 <div class="post-stub">
        <h2>
-      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%dT%H:%M:%SZ" }}    </span>
+      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d }}    </span>
               <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title}} </a>
          </span></h2>
   
