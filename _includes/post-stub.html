@@ -4,7 +4,7 @@
         {{ include.post.date | date: "%Y-%m-%d" }}
       </span>
       <span class="title">
-          {% if post.title %}
+          {% if post.layout != 'note' %}
         <a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a>
         {% endif %}
       </span>
