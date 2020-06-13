@@ -9,12 +9,14 @@ layout: page
 <div class="post-stub">
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%dT%H:%M:%SZ" }}    </span>
-              <span class="title">   <a href="{{ include.document.url | relative_url }}">{{ include.document.title}} </a>
+              <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title}} </a>
          </span></h2>
   
 
-{{ include.document.excerpt }}
+{{ document.excerpt }}
   
 {% endfor %}
 </div>
+
+
 
