@@ -4,7 +4,7 @@ title: Stream
 ---
 
 
-{% assign documents = site.documents | where: "layout", "note", "post" | sort: 'date' | reverse %}
+{% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents limit:10 %}
   <entry>
