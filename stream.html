@@ -4,13 +4,15 @@ title: Stream
 ---
 
 
-{% for item in site.collections %}
+{% assign documents = site.documents | where: 'master', true | sort: 'date' | reverse %}
 
-<a href="{{ item.url | prepend: site.baseurl }}">
-  <h2>{{ item.title }}</h2>
-</a>
-
-<p class="post-excerpt">{{ item.excerpt | truncate: 160 }}</p>
-
-{% endfor %}  
-
+{% for document in documents limit:10 %}
+  <entry>
+    <title>{{ document.title | xml_escape }}</title>
+    <link href="{{ site.url }}{{ document.url }}" />
+    <published>{{ document.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</published>
+    <updated>{{ document.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+    <id>{{ site.url }}{{ document.url }}</id>
+    <content type="html">{{ document.excerpt | xml_escape }}</content>
+  </entry>
+{% endfor %}
