@@ -9,7 +9,7 @@ layout: page
 <div class="post-stub">
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%dT%H:%M:%SZ" }}    </span>
-              <span class="title">   <a href="{{ include.document.url | relative_url }}">{{ include.document.title | xml_escape }} </a>
+              <span class="title">   <a href="{{ include.document.url | relative_url }}">{{ include.document.title}} </a>
          </span></h2>
   
 
@@ -17,3 +17,4 @@ layout: page
   
 {% endfor %}
 </div>
+
