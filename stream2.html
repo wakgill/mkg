@@ -6,7 +6,7 @@ title: Deryk Makgill's Website
 
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
-{% for document in documents limit:10 %}
+{% for document in documents limit:200 %}
 <div class="post-stub">
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
