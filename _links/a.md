@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 date: 2020-06-13
 title: Testing
 ---
