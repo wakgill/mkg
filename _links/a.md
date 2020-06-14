@@ -7,4 +7,4 @@ url: https://halo.fandom.com/wiki/Cadmon_Lasky
 link: https://halo.fandom.com/wiki/Cadmon_Lasky
 ---
 
-This is a bunch of random text.
+> This is a bunch of random text. Like a quote from the article.
