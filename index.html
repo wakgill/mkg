@@ -5,9 +5,8 @@ title: Deryk Makgill's Website
 
 
 <div class="media">
-{% for post in site.posts limit:10 %}
-{% include post-stub.html post=post %}
-{% endfor %}
+{% include post-stub.html %}
+
 </div>
 
 {% if site.posts.size > 10 %}
