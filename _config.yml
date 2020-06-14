@@ -5,6 +5,6 @@ collections:
   replies:
     output: true
     permalink: /replies/:year/:month/:day/:path/
-links:
+  links:
     output: true
-    permalink: /links/:year/:month/:day/:title/
+    permalink: /links/:year/:month/:day/:path/
