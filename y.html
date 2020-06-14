@@ -9,8 +9,7 @@ layout: page
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
              {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-         </span>{% else %} {% if document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} </a>
-         </span> 
+         </span>
          
         {% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
          </span>  {% endif %}
