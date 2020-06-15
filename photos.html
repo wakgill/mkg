@@ -1,0 +1,42 @@
+---
+layout: page
+title: Photos
+---
+
+
+
+{% assign photos = site.photos | sort: 'date' | reverse %}
+{% for photos in photos %}
+
+<div class="h-entry note post-stub">
+ 
+ 
+ <h2><a href="{{ photos.url | prepend: site.baseurl }}">
+   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ photos.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ photos.date | date: date_to_rfc822 }}
+      </time>
+   </a></h5>
+
+     {% if photos.reply %}
+ <p><span class="reply-context" style="display:block;background-color: #f5f5f5;text-indent: 1em; line-break:anywhere;">↳ In reply to <a href="{{ photos.reply | relative_url }}" class="u-in-reply-to h-cite">{{ photos.reply }}</a></span></p>
+  {% endif %}
+ 
+ <p class="p-content"> 
+   {{ photos.content | truncate: 445 }}
+ </p>
+ 
+   {% if photos.image %}
+      <div class="post-image">
+        <a href="{{ photos.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ photos.image | relative_url }}" alt="{{ photos.alt }}">
+          
+        </a>
+       </div>  
+      {% endif %}
+ 
+</div>
+
+{% endfor %}  
