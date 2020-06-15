@@ -8,3 +8,6 @@ collections:
   links:
     output: false
     permalink: /links/:year/:month/:day/:path/
+  photos:
+    output: true
+    permalink: /photos/:year/:month/:day/:path/
