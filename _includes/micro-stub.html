@@ -1,5 +1,5 @@
 
-{% assign documents = site.documents |  where: "layout" =! "post" | sort: 'date' | reverse %}
+{% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents limit:200 %}
 <div class="post-stub">
