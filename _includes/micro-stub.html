@@ -2,6 +2,7 @@
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents limit:200 %}
+    {% unless layout == post %}
 <div class="post-stub">
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
@@ -36,6 +37,7 @@
         </a>
        </div>  
        {% endif %}         
+           {% endunless %}
        
  </div> 
 {% endfor %}
