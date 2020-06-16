@@ -11,3 +11,6 @@ collections:
   photos:
     output: true
     permalink: /photos/:year/:month/:day/:path/
+  watches:
+    output: true
+    permalink: /watches/:year/:month/:day/:path/
