@@ -7,7 +7,7 @@ I'm a writer, researcher and investor. I work on my own projects and don't adver
 
 Occasionally, I do consulting for companies, non-profits and private individuals. I usually do these as hobby projects, not as a primary source of income. This includes ghostwriting, research & intelligence, economic advising, marketing strategy and IT, and information management.
 
-I'm interested, in no particular order or completeness, in privacy, Bitcoin, science-fiction, Objectivism, credentialism, education, classical Latin and Greek, firearms, publishing, digital archiving, private security, private cities, Indieweb, and cypherpunks.
+I'm interested, in no particular order or completeness, in privacy, Bitcoin, science-fiction, Objectivism, credentialism, education, classical Latin and Greek, economics, capitalism, firearms, publishing, digital archiving, private security, private cities, Indieweb, and cypherpunks.
 
 ## Colophon
 
