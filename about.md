@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+date: 2020-06-22
 ---
 
 I'm a writer, researcher and investor. I work on my own projects and don't advertise them much these days, but in the past, I've been a startup marketing director and an operations executive.
