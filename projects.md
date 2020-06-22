@@ -5,12 +5,9 @@ title: Projects
 
 <dl>
 
-<dt><a href="/projects/markdown/" title="Markdown project page">Markdown</a> (v1.0.1)</dt>
+<dt><a href="/projects/markdown/" title="Markdown project page">Sci-Fi Covers</a> (v1.0.1)</dt>
 <dd>
-<p>A text-to-HTML formatting syntax for web writers, implemented as
-a plug-in for Movable Type, Blosxom, and BBEdit. Markdown allows you
-to write using an easy-to-read, easy-to-write plain text format, then
-convert it to structurally valid XHTML (or HTML).</p>
+<p>A website that collects the most interesting science-fiction book cover art.</p>
 </dd>
 
 <dt><a href="/projects/smartypants/" title="SmartyPants project page">SmartyPants</a> (v1.5.1)</dt>
