@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+date: 2020-06-22
 ---
 
 <dl>
