@@ -3,7 +3,7 @@ layout: post
 title: ArcticAvengers + coalition groups
 ---
 
-Some ArcticAvengers members have been asking my plans for [coalitions[(https://cityofheroes.fandom.com/wiki/Patch_Notes/2005-05-04) with other supergroups.
+Some ArcticAvengers members have been asking my plans for [coalitions](https://cityofheroes.fandom.com/wiki/Patch_Notes/2005-05-04) with other supergroups.
 
 We're already partnered with Atlas Avengers but I definitely want to find other groups. The challenge will be finding ones that are as active and organised as us.
 
