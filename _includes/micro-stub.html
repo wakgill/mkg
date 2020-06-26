@@ -1,7 +1,7 @@
 
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
-{% for document in documents limit:200 %}
+{% for document in documents limit:500 %}
   {% if document.layout != 'post' %}
 <div class="post-stub">
        <h2>
