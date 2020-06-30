@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 ---
