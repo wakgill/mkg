@@ -4,7 +4,23 @@ title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 excerpt: Bitcoin parody story that should in no way be taken as my own opinion on anyone mentioned in the story.
 ---
 
-## Chapter One: Nickolas Sznape
+## Chapter 1: Hermarianne
+
+Craig, Calvin and Hermarianne slammed the door with as much force as the three of them could muster.
+
+"That was fucking close," Craig said, panting. "Yeah," Calvin agreed. His jean shorts were soaked with sweat and his #CraigISSatoshi tank-top looked like it had been torn by some kind of wild animal.
+
+"Who the fuck keeps a three-headed dog in a school?" Craig asked. "Anyone who read Lester and Cohen back in the 90s knows that's illegal. Fucking anarchists."
+
+Calvin was about to speak when he was interrupted by Hermarrianne.
+
+"Well, I'm going to bed before either of you get us killed, or worse expelled!" she yelled.
+
+But she didn't move. Craig and Calvin stared back. "Okay? Goodnight?"
+
+"Well?" Hermarianne asked, visibily frustated. "Which one of you is joining me tonight?"
+
+## Chapter Two: Nickolas Sznape
 
 Professor Nickolas Sznape stood at the front of the room, looking criminally. 
 
@@ -46,7 +62,7 @@ The students and Sznape watched aghast as the author’s name on the page slowly
 
 Before a stunned Sznape could respond, Craig stormed out of the room, followed by a couple of the best students and all of the worst, to start his own potions class.
 
-## Chapter Two: The Mirror
+## Chapter Three: The Mirror
 
 Craig and Calvin stood before the Mirror of Erised. “My God,” Calvin said. “Craig, it’s you, writing the BitCoin™ white paper.”
 
