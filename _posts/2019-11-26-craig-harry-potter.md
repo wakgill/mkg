@@ -20,6 +20,8 @@ But she didn't move. Craig and Calvin stared back. "Okay? Goodnight?"
 
 "Well?" Hermarianne asked, visibily frustated. "Which one of you is joining me tonight?"
 
+But Craig had a dozen papers to write before sunrise and Calvin reminded her she wasn't his type.
+
 ## Chapter Two: Nickolas Sznape
 
 Professor Nickolas Sznape stood at the front of the room, looking criminally. 
