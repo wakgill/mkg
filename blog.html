@@ -5,12 +5,12 @@ title: Blog
 
 
 <div class="media">
-{% for post in site.posts limit:10 %}
+{% for post in site.posts limit:1000 %}
 {% include post-stub.html post=post %}
 {% endfor %}
 </div>
 
-{% if site.posts.size > 10 %}
+{% if site.posts.size > 1000 %}
 <div class="pull-right">
     <a href="/archive/page2/" class="btn btn-primary">
         Page 2
