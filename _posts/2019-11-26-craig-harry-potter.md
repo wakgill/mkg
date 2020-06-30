@@ -3,6 +3,8 @@ layout: post
 title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 ---
 
+## Part 1
+
 Professor Nick Snape stood at the front of the room, looking criminally. 
 
 “There will be no foolish wand-waving or silly incantations in this class. As such, I don’t expect many of you to appreciate the subtle science and exact art that is potion-making. However, for those select few who possess, the predisposition…I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory, and even put a stopper in death.”
@@ -42,3 +44,32 @@ The students and Snape watched aghast as the author’s name on the page slowly 
 “…Controlled Magical Substances and I will see you bent over by the Dementors in Azkaban before I let you turn my formulas into crime potions.’
 
 Before a stunned Snape could respond, Craig stormed out of the room, followed by a couple of the best students and all of the worst, to start his own potions class.
+
+## Part 2
+
+Craig and Calvin stood before the Mirror of Erised. “My God,” Calvin said. “Craig, it’s you, writing the BitCoin™ white paper.”
+
+Craig’s eyes flicked greedily over to the mirror. “So it is….” He paused to take the image in. “I remember reading it, and was very impressed by it.”
+
+Calvin looked over at Craig, confused.
+
+“Probably when I wrote it.” Craig finished calmly.
+
+“But this shows what you want most in the world, not what you have now,” Calvin said. “How could it show that if you’d written it yourself?”
+
+Craig sighed. “The Mirror was bewitched by Greg Maxwell to show you that, and to hide his crimes from the world. It doesn’t show us what we want. It slanders us with the thing that hurts most. For me, that is denying me my rightful claims to BitCoin.™”
+
+“I don’t understand,” Calvin said.
+
+“Here, stand in front of the mirror for yourself,” Craig said patiently. “It will work the same for you.”
+
+Calvin moved in front of the mirror then recoiled and quickly stepped away.
+
+“What did you see?” Craig asked. “I didn’t get a chance to look.”
+
+“Uh..” Calvin was red. “It’s nothing. You’re right, the mirror is clearly bewitched to show us something we don’t actually want, no doubt by Greg Maxwell as you said. You are Satoshi,” Calvin said.
+
+“See?” Craig said.
+
+“And they were 18,” Calvin muttered under his breath as he and Craig left the room.
+
