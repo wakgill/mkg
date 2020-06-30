@@ -3,9 +3,9 @@ layout: post
 title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 ---
 
-## Part 1
+## Chapter One: Nick Sznape
 
-Professor Nick Snape stood at the front of the room, looking criminally. 
+Professor Nick Sznape stood at the front of the room, looking criminally. 
 
 “There will be no foolish wand-waving or silly incantations in this class. As such, I don’t expect many of you to appreciate the subtle science and exact art that is potion-making. However, for those select few who possess, the predisposition…I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory, and even put a stopper in death.”
 
@@ -45,7 +45,7 @@ The students and Snape watched aghast as the author’s name on the page slowly 
 
 Before a stunned Snape could respond, Craig stormed out of the room, followed by a couple of the best students and all of the worst, to start his own potions class.
 
-## Part 2
+## Chapter Two: The Mirror
 
 Craig and Calvin stood before the Mirror of Erised. “My God,” Calvin said. “Craig, it’s you, writing the BitCoin™ white paper.”
 
