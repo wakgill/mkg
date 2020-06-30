@@ -3,7 +3,9 @@ layout: post
 title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 ---
 
-Professor Nick Snape stood at the front of the room, looking criminally. “There will be no foolish wand-waving or silly incantations in this class. As such, I don’t expect many of you to appreciate the subtle science and exact art that is potion-making. However, for those select few who possess, the predisposition…I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory, and even put a stopper in death.”
+Professor Nick Snape stood at the front of the room, looking criminally. 
+
+“There will be no foolish wand-waving or silly incantations in this class. As such, I don’t expect many of you to appreciate the subtle science and exact art that is potion-making. However, for those select few who possess, the predisposition…I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory, and even put a stopper in death.”
 
 Craig’s hand shot up.
 
