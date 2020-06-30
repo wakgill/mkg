@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
+title: "Craig Wright's *Harry Potter and the Sorcerer's Stone*"
 excerpt: Bitcoin parody story that should in no way be taken as my own opinion on anyone mentioned in the story.
 ---
 
