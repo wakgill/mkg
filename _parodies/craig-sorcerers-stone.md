@@ -5,7 +5,7 @@ title: Craig Wright's 'Harry Potter and the Sorcerer's Stone'
 excerpt: Bitcoin parody story that should in no way be taken as my own opinion on anyone mentioned in the story.
 ---
 
-This article is purely satire and should not be taken as a statement of fact by its author. Please don't sue me.
+This is purely satire and should not be taken as a statement of fact by its author. Please don't sue me.
 
 ## Chapter 1: Hermarianne
 
