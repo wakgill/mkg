@@ -17,3 +17,6 @@ collections:
   chats:
     output: true
     permalink: /chats/:year/:month/:day/:path/
+  parodies:
+    output: true
+    permalink: /:year/:month/:day/:path/
