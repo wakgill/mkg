@@ -12,6 +12,10 @@ I'm interested, in no particular order or completeness, in privacy, Bitcoin, sci
 
 I live intermittently in the mountains and farm country.
 
+## Contact
+
+You can email me at mkgll@mkgll.com.
+
 ## Colophon
 
 This site has been my online home for a decade and has been published under a variety of URLs. It's written in static HTML and markdown, and built on Jekyll. 
