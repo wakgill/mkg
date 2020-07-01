@@ -1,52 +1,8 @@
+---
+layout: page
+title: "mkgll.com/d"
+---
 
-{% assign documents = site.documents | sort: 'date' | reverse %}
 
-{% for document in documents limit:200 %}
-<div class="post-stub">
-       <h2>
-      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
-             {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-         </span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
-         </span> 
-         
-        {% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
-         </span>  {% endif %}
-       
-       
-       </h2>
-         {% if document.reply %}
- <p><span class="reply-context" style="display:block;background-color: #f5f5f5;text-indent: 1em; line-break:anywhere;">↳ In reply to <a href="{{ document.reply | relative_url }}" class="u-in-reply-to h-cite">{{ document.reply }}</a></span></p>
-  {% endif %}
-       
-        {% if document.layout == "post" and if document.image %}
-      <div class="post-image">
-        <a href="{{ document.url | relative_url }}" style="
-    text-decoration: none;
-">
-          <img src="{{ document.image | relative_url }}" alt="{{ document.alt }}">
-          
-        </a>
-       </div>  
-      {% endif %}  
-       
-     {% if document.layout == "post" %}  {{ document.excerpt  }}      
-       {% else %}
-       
-        <p class="p-content"> 
-   {{ document.content | truncate: 445 }}
- </p>
-         {% endif %}
-         
-      {% if document.layout =! "post" and if document.image %}
-      <div class="post-image">
-        <a href="{{ document.url | relative_url }}" style="
-    text-decoration: none;
-">
-          <img src="{{ document.image | relative_url }}" alt="{{ document.alt }}">
-          
-        </a>
-       </div>  
-      {% endif %}         
-       
- </div> 
-{% endfor %}
+
+{% include blog-stub.html %}
