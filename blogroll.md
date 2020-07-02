@@ -6,7 +6,7 @@ date: 2020-07-02
 
 This is an alphabetical list of the blogs I like to read. They're not all frequently updated, and for some, I only read 10% of what they write. I personally know maybe 50% of them.
 
-- [Alexey Guzey](https://guzey.com/). See [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/).
+- [Alexey Guzey](https://guzey.com/). I don't read him too often, but see [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/).
 
 - [Chuck Grimmett](http://cagrimmett.com): I always find something useful in Chuck's posts, especially his short [tech tutorials](http://www.cagrimmett.com/tech/2019/02/04/setting-up-mac-from-scratch.html) and [book recommendations](http://www.cagrimmett.com/media/2019/06/12/reading-listening-using.html). 
 
@@ -19,6 +19,10 @@ This is an alphabetical list of the blogs I like to read. They're not all freque
 - [Kev Quirk](https://kevq.uk/): I stumbled on this blog somehow one day and have enjoyed his thoughts on privacy, [software](https://kevq.uk/email-is-not-broken/), and [blogging](https://kevq.uk/how-i-optimise-my-website-performance/).
 
 - [Roots of Progress](https://rootsofprogress.org/): See [How early American inventors funded their ventures](https://rootsofprogress.org/how-early-american-inventors-funded-their-ventures) and [Iron: From mythical to mundane](https://rootsofprogress.org/iron-from-mythical-to-mundane)
+
+- [Ryan Kulp](https://www.ryanckulp.com/): See: [Going to jail saved my life.](https://www.ryanckulp.com/jail-saved-my-life/) He's also got good thoughts on marketing and micro acquisitions.
+
+- [Simon Sarris](https://simonsarris.com/): His articles on [building](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) a new home that doesn't suck are excellent.
 
 - [Tynan](http://tynan.com/): He's just an interesting guy. 
 
