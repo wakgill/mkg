@@ -6,6 +6,8 @@ date: 2020-07-02
 
 This is an alphabetical list of the blogs I like to read. They're not all frequently updated, and for some, I only read 10% of what they write. I personally know maybe 50% of them.
 
+I don't have a system for what gets added here and what doesn't. Sometimes I'll read one or two articles that I love so much that I'll list the blog here.
+
 - [Alexey Guzey](https://guzey.com/). I don't read him too often, but see [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/).
 
 - [Chuck Grimmett](http://cagrimmett.com): I always find something useful in Chuck's posts, especially his short [tech tutorials](http://www.cagrimmett.com/tech/2019/02/04/setting-up-mac-from-scratch.html) and [book recommendations](http://www.cagrimmett.com/media/2019/06/12/reading-listening-using.html). 
