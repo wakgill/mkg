@@ -2,7 +2,10 @@
 layout: post
 date: 2019-11-30
 title: Craig Wright's 'Harry Potter and the Chamber of Secrets'
+excerpt: Bitcoin parody story that should in no way be taken as my own opinion on anyone mentioned in the story.
 ---
+
+This is parody and should not be taken as a statement of fact or opinion by its author. Please don't sue me. Thank you.
 
 ## Chapter 2: Writing on the wall
 
