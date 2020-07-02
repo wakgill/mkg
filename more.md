@@ -4,5 +4,5 @@ date: 2020-07-02
 title: More
 ---
 
-- [About]({{ '/about' | relative_url }})
-- [Blogroll]({{ '/blogroll' | relative_url }})
+- [About](/drw/about)
+- [Blogroll](/drw/blogroll)
