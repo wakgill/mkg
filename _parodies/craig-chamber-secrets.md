@@ -13,10 +13,12 @@ This is parody and should not be taken as a statement of fact or opinion by its 
 
 A gasp ran through the crowd of students that had gathered at scene. They had just noticed a large piece of parchment that had been tacked to the castle wall behind where McCormack had just been standing. 
 
-They were so shocked they didn’t notice that McCormack had tried to break free and was now being dragged by the Dementors down the hall after being stunned by the Auror.
+They were so shocked they didn’t notice that McCormack had tried to break free and was now being dragged by the Dementors down the hall after being stunned by the Auror. "Don't take me to Azakban!" Peter could be heard begging. "It's Thai prison for you." Peter went pale and limp as he, the Auror and the Dementors rounded the corner out of view.
 
-‘Enemies of the Ayre beware’ Craig read the legal document aloud smugly. ‘Welcome to law.’
+"The Chamber of Secrets has been opened." Craig read the legal document aloud smugly. "Enemies of the Ayre beware," 
 
-A few students from Binance House began to step backwards from the crowd nervously. Several others from Core House took off running down the hall. Someone screamed.
+A few students from Binance House began to step backwards from the crowd nervously. Several others from Core House took off running down the hall. A sixth year student from Norway screamed.
 
-Craig turned towards them. You’ll be next, shitcoiners.
+Craig turned towards them and smiled. 
+
+"Welcome to law. You’ll be next, shitcoiners."
