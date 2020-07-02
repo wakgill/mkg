@@ -4,7 +4,7 @@ title: Blogroll
 date: 2020-07-02
 ---
 
-This is an alphabetical list of the blogs I like to read. They're not all frequently updated, and for some, I only read 10% of what they write:
+This is an alphabetical list of the blogs I like to read. They're not all frequently updated, and for some, I only read 10% of what they write. I personally know maybe 50% of them.
 
 - [Alexey Guzey](https://guzey.com/). See [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/).
 
