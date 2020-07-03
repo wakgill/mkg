@@ -17,7 +17,7 @@ For example, the first time I encountered a 'pay it forward' line, I happily dis
 
 People from all sorts of backgrounds and income levels go through Starbucks every day and I have no idea what the person in the car behind me is dealing with or what they're comfortable paying for. And while it's true they can always say "no, thank you" (I do now!), there's a weird unspoken social pressure to *not be that guy.* I know because I've felt it. You feel like you've got to pay or you'll spoil the fun. You'll be the selfish jerk who took a free drink and didn't help anyone else.
 
-There's nothing "nice" about doing that to someone. You've just put them in a very awkard situation.
+There's nothing "nice" about doing that to someone. You've just put them in a very awkard situation—join the virtue orgy, even if you can't afford it, or feel bad yourself and risk the ugly eye of the barista you've just offended.
 
 So buck stops with me whenever someone pays for me. I didn't ask for it and I certainly don't have the right to set up a situtation where a stranger feels pressured to participate in a virtue orgy that might not be able to afford. If you want to buy drinks for someone, just do it and shut up about it.
 
