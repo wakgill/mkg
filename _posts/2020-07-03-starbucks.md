@@ -19,7 +19,7 @@ People from all sorts of backgrounds and income levels go through Starbucks ever
 
 There's nothing "nice" about doing that to someone. You've just put them in a very awkard situation—join the virtue orgy, even if you can't afford it, or feel bad yourself and risk the ugly eye of the barista you've just offended.
 
-So buck stops with me whenever someone pays for me. I didn't ask for it and I certainly don't have the right to set up a situtation where a stranger feels pressured to participate in a virtue orgy that might not be able to afford. If you want to buy drinks for someone, just do it and shut up about it.
+So the buck stops with me whenever someone pays for me. I didn't ask for it and I certainly don't have the right to pressure someone else. If you want to buy drinks for someone, just do it and shut up about it.
 
 
 
