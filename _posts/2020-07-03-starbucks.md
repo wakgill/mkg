@@ -5,7 +5,7 @@ title: Starbucks' 'pay it forward' considered harmful
 
 Have you ever had someone pay for your Starbucks drink in the drive-through line only to be asked by a glowing barista to pay for the drinks of the car behind you?
 
-It's informally called 'pay it forward,' and its gotten a lot of news coverage as a beautiful display of goodwill and altruism towards your fellow coffee-drinker. One news outlet tells us that over [137 people](https://www.wqad.com/article/news/local/outreach/pay-it-forward/hundreds-of-starbucks-customers-pay-it-forward-at-drive-thru/526-60b6cded-2407-4004-92c8-7eb60a806870#:~:text=April%2019%2C%202017-,BETHEL%20PARK%2C%20Pennsylvania%E2%80%93%20A%20single%20random%20act%20of%20kindness%20started,for%20the%20car%20behind%20them.) paid for eachother's drinks!
+It's informally called 'pay it forward,' and its gotten a lot of news coverage as a beautiful display of goodwill and altruism towards your fellow coffee-drinker. One news outlet tells us that over [137 people](https://www.wqad.com/article/news/local/outreach/pay-it-forward/hundreds-of-starbucks-customers-pay-it-forward-at-drive-thru/526-60b6cded-2407-4004-92c8-7eb60a806870#:~:text=April%2019%2C%202017-,BETHEL%20PARK%2C%20Pennsylvania%E2%80%93%20A%20single%20random%20act%20of%20kindness%20started,for%20the%20car%20behind%20them.) paid for eachother's drinks! Another one hit nearly [400!](https://www.usatoday.com/story/news/nation-now/2014/08/21/378-people-pay-it-forward-at-fla-starbucks/14380109/)
 
 It sure sounds nice. Bob pays for Jill. Jill pays for Carl. Carl pays for Alice. I almost feel good about myself just thinking about it. What an easy way to get your virtue-fix for the day!
 
