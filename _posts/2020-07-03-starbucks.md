@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Starbucks' 'pay it forward' considered harmful
+excerpt: It's not that I'm against buying someone's drinks. In fact, I've often paid for people in lines or at restaurants who are, for example, having their cards declined. I don't mind that, and while I don't consider it a significant virtue, it creates maybe a tiny bit more happiness for both parties and that's a good thing. But I'm against imposing unchosen obligations upon a stranger. I don't want the person I just paid for to be guilted by a smiling barista into paying for drinks that might be much more expensive than their own.
 ---
 
 Have you ever had someone pay for your Starbucks drink in the drive-through line only to be asked by a glowing barista to pay for the drinks of the car behind you?
