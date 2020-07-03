@@ -10,7 +10,7 @@ I don't have a system for what gets added here and what doesn't. Sometimes I'll 
 
 - [Alexey Guzey](https://guzey.com/). I don't read him too often, but see [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/).
 
-- [Chuck Grimmett](http://cagrimmett.com): I always find something useful in Chuck's posts, especially his short [tech tutorials](http://www.cagrimmett.com/tech/2019/02/04/setting-up-mac-from-scratch.html) and [book recommendations](http://www.cagrimmett.com/media/2019/06/12/reading-listening-using.html). 
+- [Chuck Grimmett](http://cagrimmett.com): I always find something useful in Chuck's posts, especially his short [tech tutorials](http://www.cagrimmett.com/tech/2019/02/04/setting-up-mac-from-scratch.html) and [book recommendations](http://www.cagrimmett.com/media/2019/06/12/reading-listening-using.html). See his [cooking blog](https://cooklikechuck.com/) too.
 
 - [Daniel Krawisz](https://krawisz.com): The Emperor of Bitcoin.
 
