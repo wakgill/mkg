@@ -6,7 +6,7 @@ title: code
 
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
-{% for document in documents limit:50 %}
+{% for document in documents limit:500 %}
   {% if document.layout == 'post' %}
 <div class="post-stub">
        <h2>
@@ -14,11 +14,11 @@ title: code
             
  <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a></span> 
        
-       </h2>
+  </h2>
       
  <p class="p-content"> {{ document.excerpt  }} </p>     
       
-         
+{% endif %}  
  </div> 
-  {% endif %}   
+ 
 {% endfor %}
