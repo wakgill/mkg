@@ -42,7 +42,7 @@ The full code is shared below for you to copy and adapt for your own site.
        
         <p class="p-content"> {{ document.excerpt  }} </p>         
          
-        
+  {% endif %}           
  </div> 
   {% endif %}   
 {% endfor %}
