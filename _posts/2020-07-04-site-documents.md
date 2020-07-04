@@ -37,7 +37,7 @@ The full code is shared below for you to copy and adapt for your own site.
             <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
          </span> </h2>
        
-        <p class="p-content"> {{ document.excerpt  }} </p>         
+<p class="p-content"> {{ document.excerpt  }} </p>         
               
  </div> 
   {% endif %}   
