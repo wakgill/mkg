@@ -6,7 +6,7 @@ title: Building a Jekyll blog feed with posts AND collections
 I have several different types of posts on my Jekyll site that could all fit under the "blog" page, but I needed some of them to be 
 in their own collection outside of the default <code>_posts</code> collection. 
 
-The problem is, if I use the typical <code>site.posts</code> variable, I will only display posts in <code>_posts</code> and not in the collections I want displayed on the same page.
+The problem is, if I use the typical <code>site.posts</code> variable, Jekyll will only display posts in <code>_posts</code> and not in the collections I want displayed on the same page.
 
 I couldn't find a good tutorial on this but by looking through the Jekyll [docs](https://jekyllrb.com/docs/variables/ ) I was able to figure out a good solution for this. Here's the full code if you don't want to read the explanation below.
 
