@@ -1,0 +1,24 @@
+---
+layout: page
+title: code
+---
+
+
+{% assign documents = site.documents | sort: 'date' | reverse %}
+
+{% for document in documents limit:50 %}
+  {% if document.layout == 'post' %}
+<div class="post-stub">
+       <h2>
+      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
+            
+ <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a></span> 
+       
+       </h2>
+      
+ <p class="p-content"> {{ document.excerpt  }} </p>     
+      
+         
+ </div> 
+  {% endif %}   
+{% endfor %}
