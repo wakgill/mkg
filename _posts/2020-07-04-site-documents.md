@@ -12,21 +12,21 @@ I couldn't find a good tutorial on this but by looking through the Jekyll [docs]
 
 You can use <code>site.documents</code> to render a display of *all* posts and collections on your Jekyll site.
 
-Then you'll need some way to organise the content. If you've got a date set in your collection file frontmatter, you can use a filter to order the documents by date, which looks like <code>{% assign documents = site.documents | sort: 'date' | reverse %}</code>.
+Then you'll need some way to organise the content. If you've got a date set in your collection file frontmatter, you can use a filter to order the documents by date, which looks like <pre><code>{% assign documents = site.documents | sort: 'date' | reverse %}</code>.</pre>
 
 Here I ran into another problem. I don't actually want all my collections to display with my posts. I only want *some* of them to display. Luckily, we can do that.
 
 It's as simple as creating a filter that meets the parameters you need for the documents you want to display. In my case, I'm using the "post" layout for all the documents I'd want displayed on my blog feed, so 
-my code is <code>{% if document.layout == 'post' %}</code>.
+my code is <pre><code>{% if document.layout == 'post' %}</code>.</pre>
 
-If you had multiple layouts you were using, you could add all the layouts to the filter, or you could do an exclusion. For example, you could do <code>{% if document.layout != 'sample' %}</code>, which would display all documents except those using the 'sample' layout. Or you could add your own custom frontmatter variable like 'group' and do
-<code>{% if document.group == 'blog' %}</code>.
+If you had multiple layouts you were using, you could add all the layouts to the filter, or you could do an exclusion. For example, you could do <pre><code>{% if document.layout != 'sample' %}</code></pre>, which would display all documents except those using the 'sample' layout. Or you could add your own custom frontmatter variable like 'group' and do
+<pre><code>{% if document.group == 'blog' %}</code>.</pre>
 
 The thing about Liquid and Jekyll is that there are a ton of ways to accomplish basically the same thing.
 
 The full code is shared below for you to copy and adapt for your own site.
 
-
+```
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents limit:500 %}
@@ -42,4 +42,4 @@ The full code is shared below for you to copy and adapt for your own site.
  </div> 
   {% endif %}   
 {% endfor %}
-
+```
