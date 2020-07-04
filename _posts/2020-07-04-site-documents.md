@@ -26,8 +26,7 @@ The thing about Liquid and Jekyll is that there are a ton of ways to accomplish 
 
 The full code is shared below for you to copy and adapt for your own site.
 
-
-```
+<pre>
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents limit:500 %}
@@ -43,8 +42,8 @@ The full code is shared below for you to copy and adapt for your own site.
        
         <p class="p-content"> {{ document.excerpt  }} </p>         
          
-{% endif %}           
+        
  </div> 
-  
+  {% endif %}   
 {% endfor %}
-```
+</pre>
