@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Bookmark or link posts with Jekyll collections
+title: How to create bookmark or link posts in Jekyll
 ---
 
