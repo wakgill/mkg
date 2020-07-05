@@ -44,7 +44,7 @@ my code is <code>if document.layout == 'post'</code>.
 If you had multiple layouts you were using, you could add all the layouts to the filter, or you could do an exclusion. For example, you could do <code>if document.layout != 'sample'</code>, which would display all documents except those using the 'sample' layout. Or you could add your own custom frontmatter variable like 'group' and do
 <code>if document.group == 'blog'</code>.
 
-The thing about Liquid and Jekyll is that there are a ton of ways to accomplish basically the same thing.
+The thing about Liquid and Jekyll is that there are a ton of ways to accomplish basically the same thing. So far, this works for my site.
 
 
 
