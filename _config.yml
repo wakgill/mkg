@@ -20,3 +20,6 @@ collections:
   parodies:
     output: true
     permalink: /:year/:month/:day/:path/
+  research:
+    output: true
+    permalink: /:year/:month/:day/:path/
