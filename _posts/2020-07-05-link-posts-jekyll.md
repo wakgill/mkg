@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 'Link' posts with Jekyll collections
+title: Bookmark or link posts with Jekyll collections
 ---
 
