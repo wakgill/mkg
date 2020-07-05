@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "'Link' posts with Jekyll collections
+title: 'Link' posts with Jekyll collections
 ---
 
