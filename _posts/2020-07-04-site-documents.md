@@ -30,6 +30,8 @@ I couldn't find a good tutorial on this but by looking through the Jekyll [docs]
 ```
 {% endraw %}
 
+The code works as follows...
+
 You can use <code>site.documents</code> to render a display of *all* posts and collections on your Jekyll site.
 
 Then you'll need some way to organise the content. If you've got a date set in your collection file frontmatter, you can use a filter to order the documents by date, which looks like <code>assign documents = site.documents | sort: 'date' | reverse </code>.
