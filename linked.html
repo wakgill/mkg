@@ -10,8 +10,7 @@ title: Links
 
 <div class="post-stub">
 {% if document.layout == "post" %}
-
-       <h2>
+<h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
              <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
          </span>
@@ -33,9 +32,9 @@ title: Links
    {{ document.content | truncate: 445 }}
  </p>
   
-     {% endif %}   
-      
+
 </div>
+           {% endif %}   
            
          
         
