@@ -1,0 +1,26 @@
+---
+layout: page
+title: Links
+---
+
+{% assign links = site.links | sort: 'date' | reverse %}
+{% for links in links %}
+
+<div class="h-entry note post-stub">
+ 
+ 
+ <h2 class="post-stub"><a href="{{ links.url | relative_url }}">
+   {{ links.title }} | {{ links.label }} 
+   </a> → </h2>
+
+ {% if links.content %}
+
+ 
+ <p class="p-content"> {{ links.content }}
+ </p>
+   {% endif %}
+
+ 
+</div>
+
+{% endfor %}
