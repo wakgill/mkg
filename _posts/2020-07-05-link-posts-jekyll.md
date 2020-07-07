@@ -55,7 +55,7 @@ link: https://mises.org/library/velocity-circulation
 ---
 ```
 
-I use the <code>link:</code> variable to tell Jekyll the site my post is linking to. The <code>title:</code> variable is the name of the article or piece of content. The <code>label:</code> variable is the author or site name.
+I use the <code>link:</code> variable to tell Jekyll the site my post is linking to. The <code>title:</code> variable is the name of the article or piece of content. The <code>label:</code> variable is the author or site name. The <code>date:</code> variable is the date I posted it can be rendered on the feed page next to the link.
 
 If you want content or commentary on the link you can add content to the file below the frontmatter and we can render it on our feed page. You could also add <code>excerpt:</code> as a variable in the front matter and modify some code to display the excerpt instead of the content.
 
@@ -70,7 +70,9 @@ Next we need a way to display all the link posts on a page in chronological orde
 <div class="h-entry note post-stub">
  
  
- <h2 class="post-stub"><a href="{{ links.url | relative_url }}">
+ <h2 class="post-stub">     <span class="date hidden-xs">{{ links.date | date: "%Y-%m-%d" }}    </span>
+  
+  <a href="{{ links.url | relative_url }}">
    {{ links.title }} | {{ links.label }} 
    </a> → </h2>
 
