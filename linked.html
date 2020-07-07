@@ -9,7 +9,9 @@ title: Links
 <div class="h-entry note post-stub">
  
  
- <h2 class="post-stub"><a href="{{ links.url | relative_url }}">
+ <h2 class="post-stub">     <span class="date hidden-xs">{{ links.date | date: "%Y-%m-%d" }}    </span>
+  
+  <a href="{{ links.url | relative_url }}">
    {{ links.title }} | {{ links.label }} 
    </a> → </h2>
 
