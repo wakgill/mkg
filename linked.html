@@ -6,7 +6,7 @@ title: Links
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents limit:500 %}
-  {% if document.layout == "post" %}
+  {% if document.layout == "post" or "link" %}
 <div class="post-stub">
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
