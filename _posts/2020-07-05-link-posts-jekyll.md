@@ -51,7 +51,7 @@ I use the <code>link:</code> variable to tell Jekyll the site my post is linking
 
 If you want content or commentary on the link you can add content to the file below the frontmatter.
 
-Next we need a way to display all the link posts on a page in chronological order and the optional content. I created a links.html page and write the following liquid code for it.
+Next we need a way to display all the link posts on a page in chronological order and the optional content. I created a <code>links.html</code> page and write the following liquid code for it.
 
 {% raw %}
 
