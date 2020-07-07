@@ -94,3 +94,50 @@ We could stop here and have a separate page for our link posts and our regular p
 
 I wrote a short tutorial about displaying collections AND <code>_posts</code> files on the same feed, which will [walk you through the steps to do this.](https://derykmakgill.github.io/drw/2020/07/04/site-documents.html)
 
+Or you can use the code I've written below for a sample page on my site and adapt it to your needs.
+
+{% raw %}
+```
+
+{% assign documents = site.documents | sort: 'date' | reverse %}
+
+{% for document in documents limit:500 %}
+  {% if document.layout == "post" or document.layout == "link" %}
+
+<div class="post-stub">
+{% if document.layout == "post" %}
+<h2>
+      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
+             <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
+         </span>
+        </h2>
+       
+    <p class="p-content"> {{ document.excerpt  }} </p>    
+  
+
+  
+    {% elsif document.layout == "link" %}
+
+<h2>
+      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
+
+<span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
+         </span>  </h2>
+       
+        <p class="p-content"> 
+   {{ document.content | truncate: 445 }}
+ </p>
+      {% endif %}  
+
+</div>
+  
+           
+         
+        
+  {% endif %}   
+{% endfor %}
+
+```
+{% endraw %}
+
+Using that rough liquid code, you can display both your blog posts in your Jekyll <code>_posts</code> folder and your link collection posts on the same page in chronological order.
