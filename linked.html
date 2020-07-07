@@ -3,26 +3,30 @@ layout: page
 title: Links
 ---
 
-{% assign links = site.links | sort: 'date' | reverse %}
-{% for links in links %}
+{% assign documents = site.documents | sort: 'date' | reverse %}
 
-<div class="h-entry note post-stub">
- 
- 
- <h2 class="post-stub">     <span class="date hidden-xs">{{ links.date | date: "%Y-%m-%d" }}    </span>
-  
-  <a href="{{ links.url | relative_url }}">
-   {{ links.title }} | {{ links.label }} 
-   </a> → </h2>
-
- {% if links.content %}
-
- 
- <p class="p-content"> {{ links.content }}
+{% for document in documents limit:500 %}
+  {% if document.layout == 'post' or 'link' %}
+<div class="post-stub">
+       <h2>
+      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
+             {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
+         </span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
+         </span> 
+          {% endif %}
+       
+       
+       </h2>
+       
+       {% if document.layout == "post" %}   <p class="p-content"> {{ document.excerpt  }} </p>     
+       {% else %}
+       
+        <p class="p-content"> 
+   {{ document.content | truncate: 445 }}
  </p>
-   {% endif %}
-
- 
-</div>
-
+         {% endif %}        
+         
+        
+ </div> 
+  {% endif %}   
 {% endfor %}
