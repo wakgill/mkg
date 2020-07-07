@@ -7,10 +7,11 @@ title: Links
 
 {% for document in documents limit:500 %}
   {% if document.layout == "post" or document.layout == "link" %}
+{% if document.layout == "post" %}
 <div class="post-stub">
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
-             {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
+             <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
          </span>
         </h2>
        
@@ -18,7 +19,8 @@ title: Links
   
    </div> 
   
-    {% elsif document.layout == "link" %}<div class="post-stub"><h2>
+    {% elsif document.layout == "link" %}
+<div class="post-stub"><h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
 
 <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
