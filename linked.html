@@ -6,24 +6,29 @@ title: Links
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents limit:500 %}
-  {% if document.layout == "post" or "link" %}
+  {% if document.layout == "post" %}
 <div class="post-stub">
        <h2>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
              {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-         </span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
-         </span> 
-          {% endif %}
+         </span>
+        </h2>
        
-       
-       </h2>
-       
-       {% if document.layout == "post" %}   <p class="p-content"> {{ document.excerpt  }} </p>     
-       {% else %}
+    <p class="p-content"> {{ document.excerpt  }} </p>    
+  
+   </div> 
+  
+    {% elsif document.layout == "link" %}<div class="post-stub"><h2>
+      <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
+
+<span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
+         </span>  </h2>
        
         <p class="p-content"> 
    {{ document.content | truncate: 445 }}
  </p>
+      
+</div>
          {% endif %}        
          
         
