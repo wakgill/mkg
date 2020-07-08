@@ -13,7 +13,7 @@ In Chuck's case, he links out to articles he's written on other sites like Quora
 
 Chuck accomplishes his linkblog by using a custom frontmatter variable and some conditional logic to render the <code>title:</code> variable in files in his <code>_posts</code> folder as an outbound link matching his <code>link:</code> variable. It works great and his [tutorial](http://www.cagrimmett.com/til/2016/06/10/external-post-links-jekyll.html) is, as always, easy to follow.
 
-As I've written before, there are many ways to accomplish the same thing in Jekyll, and after reviewing Chuck's approach, I realised that it wasn't going to work for all the different needs I had on my site for several reasons.
+As I've written before, [there are many ways](https://derykmakgill.github.io/drw/notes/2019/03/01/20190301/) to accomplish the same thing in Jekyll, and after reviewing Chuck's approach, I realised that it wasn't going to work for all the different needs I had on my site for several reasons.
 
 1. I didn't want to clog up my <code>_posts</code> folder with links to external sites. I like to keep different post types more organised. 
 
@@ -42,7 +42,7 @@ layout: default
 ---
 ```
 
-Next I created my <code>_links</code> collection folder in which I'll be posting all my link posts. You can use whatever file structure you want. I like to make my a copy of the date of the post. For example, a post on 2020-06-16 would be filed as <code>/_links/20200616.md</code>.
+Next I created my <code>_links</code> collection folder in which I'll be posting all my link posts. You can use whatever file structure you want for your link posts in the folder. I like to make mine a copy of the date of the post. For example, a post on 2020-06-16 would be filed as <code>/_links/20200616.md</code>.
 
 The frontmatter I use for the link posts is below. 
 
