@@ -11,7 +11,7 @@ A link post is basically just a post that appears in your regular blog or microb
 
 In Chuck's case, he links out to articles he's written on other sites like Quora, Medium or his company blog.
 
-Chuck accomplishes his linkblog by using a custom frontmatter variable and some conditional logic to render the <code>title:</code> variable in files in his <code>_posts</code> folder as an outbound link matching his <code>link:</code> variable. It works great and his [tutorial]((http://www.cagrimmett.com/til/2016/06/10/external-post-links-jekyll.html) is, as always, easy to follow.
+Chuck accomplishes his linkblog by using a custom frontmatter variable and some conditional logic to render the <code>title:</code> variable in files in his <code>_posts</code> folder as an outbound link matching his <code>link:</code> variable. It works great and his [tutorial](http://www.cagrimmett.com/til/2016/06/10/external-post-links-jekyll.html) is, as always, easy to follow.
 
 As I've written before, there are many ways to accomplish the same thing in Jekyll, and after reviewing Chuck's approach, I realised that it wasn't going to work for all the different needs I had on my site for several reasons.
 
