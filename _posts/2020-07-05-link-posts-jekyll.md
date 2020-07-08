@@ -2,6 +2,7 @@
 layout: post
 title: How to create bookmark or link posts in Jekyll
 date: 2020-07-05 16:40:03
+excerpt: A link post is basically just a post that appears in your regular blog or microblog feed that links to outside content rather than content on your site. That might be a bookmark for an article you want to read later, a link to an piece of content you liked, or something you created yourself.
 ---
 
 My friend Chuck Grimmett wrote a great article several years ago on [how to create "link" posts in Jekyll.](http://www.cagrimmett.com/til/2016/06/10/external-post-links-jekyll.html)
