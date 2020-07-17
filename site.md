@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Site
+date: 2020-07-17
 ---
 
 This page has information about this website. For information about me, see my [about](/about) page.
