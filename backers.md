@@ -9,4 +9,4 @@ Jerry French · 'M.K'
 
 ### Institutions
 
-Bitcoin Cash Association 
+Bitcoin Cash Association · Bitcoin.com
