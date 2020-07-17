@@ -3,12 +3,10 @@ layout: page
 title: Support
 ---
 
-## Current and past backers
-
 ### Individuals
 
-- Jerry French
+Jerry French · 'M.K'
 
 ### Institutions
 
-- Bitcoin Cash Association 
+Bitcoin Cash Association 
