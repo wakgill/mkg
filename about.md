@@ -10,7 +10,7 @@ Occasionally, I do consulting for companies, non-profits and private individuals
 
 
 
-I'm interested, in no particular order or completeness, in privacy, Bitcoin, science-fiction, Objectivism, credentialism, education, classical Latin and Greek, economics, capitalism, firearms, publishing, digital archiving, private security, private cities, Indieweb, LEGO, and cypherpunks.
+I'm interested, in no particular order or completeness, in privacy, Bitcoin, science-fiction, space, Objectivism, credentialism, education, classical Latin and Greek, economics, capitalism, firearms, publishing, digital archiving, private security, private cities, Indieweb, LEGO, and cypherpunks.
 
 I live intermittently in the mountains and farm country.
 
