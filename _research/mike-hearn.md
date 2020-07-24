@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title: Mike Hearn BitcoinTalk quotes
 date: 2020-07-05
 ---
