@@ -8,7 +8,7 @@ I attempt to show through a chronology of primary source material that Bitcoin w
 
 I do not claim that scaling on-chain is the proper way to scale Bitcoin, only that it was the way *intended* by Satoshi Nakamoto and early Bitcoiners, and that technical and economic arguments against scaling on-chain played a less important role in the eventual outcome than censorship, propaganda, etc.
 
-#### 29 October 1995
+### 29 October 1995
 
 In a discussion about Digicash on the Cypherpunk Mailing List, 
 James A. Donald [critisizes](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
@@ -23,7 +23,7 @@ the early electronic cash for having high fees.
 >No one is going to use digicash under these kinds of terms and 
 conditions.
 
-#### 30 Oct 1995
+### 30 Oct 1995
 
 Creator of the Cypherpunk Mailing List Timothy C. May [responds](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
 in agreement.
@@ -34,7 +34,7 @@ fly as a long term rate. So many monetary transactions happen in the course
 of business that even a 4% fee _per transaction_ would rapidly wipe out
 most of the value.
 
-#### 14 June 1996
+### 14 June 1996
 
 Hal Finney argues for the [utility of online micropayments](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/06/b2345507ef1258011af9ea463ae9b03714f5cd29c4092458bd0002b360f1d545/) on the Cypherpunk Mailing List.
 
@@ -47,14 +47,14 @@ servers, and better net connections?  It will be a superior service.
 have today where we have to rely on charity and advertising as
 motivations for much of what we find on the web.
 
-#### 02 May 1997
+### 02 May 1997
 
 Blockstream founder and Hashcash inventor Adam Back [writes](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/ef17e389556d2b6e27e8e0036a85ce1fedc73e2de871cc30728e7fc8be3d7f09/) 
 on the Cypherpunk Mailing List that a successful digital cash project must be ultra low cost to transact with.
 
 >What we want is fully anonymous, *ultra low transaction cost,* transferable units of exchange.  If we get that going the banks will become the obsolete dinasaurs they deserve to become.
 
-#### May 1999
+### May 1999
 
 Nick Szabo publishes [*Micropayments and Mental Transaction Costs.*](https://nakamotoinstitute.org/static/docs/micropayments-and-mental-transaction-costs.pdf) The paper argues against the viability of online micropayments and suggests security is a more important investment than reducing network resource usage to enable cheaper transactions.
 
@@ -64,11 +64,11 @@ as well as costs of better communicating product quality versus price tradeoffs
 in the user interface, are usually more important ob jectives for technological
 cost reduction than conserving on computational or network resources.
 
-#### ~ 2002
+### ~ 2002
 
 Sometime in 2002 (exact date unknown), Nick Szabo publishes [*Shelling Out -- The Origins of Money.*](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/shell.html) The paper presents a theory of the beginnings of money that would later come to dominate part of the future Bitcoin community.
 
-#### 22 January 2006
+### 22 January 2006
 
 Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, terrorist sympathizing, sockpupettry and more on Wikipedia.](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/)
 
