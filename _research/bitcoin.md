@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title: The Great Bitcoin Scaling Debate — An Annotated Timeline
 date: 2020-07-23
 ---
