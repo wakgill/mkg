@@ -33,7 +33,7 @@
     {% endfor %}
     {% endif %}
     
-      {% if page.url != '/' %}
+  <!--    {% if page.url != '/' %}
     <h3>Recent Notes</h3>
     {% assign notes = site.notes | sort: 'date' | reverse %}
 {% for notes in notes limit:4  %}
@@ -41,7 +41,7 @@
       <a href="{{ notes.url | prepend: site.baseurl }}">{{ notes.date }}</a>
   </div>
 {% endfor %}
-      {% endif %}
+      {% endif %} -->
 
     
     <h3>Consulting</h3>
